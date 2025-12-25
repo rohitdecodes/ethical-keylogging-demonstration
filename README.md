@@ -65,12 +65,13 @@ This project does **not** attempt to hide execution, disguise files, or transmit
 ---
 
 ## Ethical Disclaimer
-This project is strictly intended for **educational and research purposes**.
-It does not include any form of stealth execution, persistence, remote communication,
-or malicious payload delivery.
 
-The goal is to understand attacker methodologies in order to design
-stronger defensive cybersecurity solutions.
+This project is developed strictly for educational and academic learning purposes.
+It is designed to promote awareness of cybersecurity threats and defensive practices.
+All demonstrations are conducted with user awareness and informed consent.
+No personal or sensitive data is intentionally collected or misused.
+The project follows ethical guidelines and responsible research principles.
+
 
 ---
 
